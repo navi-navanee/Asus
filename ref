@@ -1,0 +1,60 @@
+ <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Mobile</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Laptop</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Display/ Desktop</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Motherboards / Components</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Networking / IoT / Servers</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Accessories</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Business PCs / Peripherals</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Support</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Shop</a>
+                  </li>
+                </ul>
+
+
+                +++++++
+                <header>
+        <div class="row">
+            <div class="col-md-3">
+                <img src="images/huawei_logo.webp" alt="" height="30px" width="133px">
+            </div>
+            <div class="col-md-8">
+                <ul class="nav">
+                    <li class="nav-item">
+                      <a class="nav-link active" href="#">Consumer Products</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Business Products</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Support</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link disabled" href="#">Partners & Developers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#">About Huawei</a>
+                      </li>
+                  </ul>
+
+            </div>
+
+        </div>
+    </header>

@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "..\\WEB DEVELOP"
+		},
+		{
+			"path": "..\\micromax"
+		},
+		{
+			"path": "..\\vscode"
+		},
+		{
+			"path": "..\\pexels"
+		},
+		{
+			"path": "..\\javascript"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\huawei"
+		},
+		{
+			"path": "..\\xxxxxxx"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "asus"
+	}
+}
